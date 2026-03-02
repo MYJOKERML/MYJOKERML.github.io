@@ -1,58 +1,38 @@
 ---
+layout: about
+title: "About Me"
 permalink: /
-title: ""
-excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**, where I am fortunate to be advised by Prof. [Zhao Zhou]([替换为赵洲教授的个人主页链接]). I am also a proud alumnus of the Turing Class at Chu Kochen Honors College, Zhejiang University. Currently, I work as a research assistant at the DCD Lab.
 
-<span class='anchor' id='about-me'></span>
+My research interests lie primarily in **audio-based memory, long-context understanding, spoken dialogue systems, and generative AI**. I am passionate about enhancing how AI systems process and understand complex audio and spoken information over extended contexts. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Outside of research, I am a classically trained tenor and an avid guitar player. I am also a member of the ZJU golf team. I originally hail from Guang'an, Sichuan.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+## 📢 News
+- **[2026.02]** I am currently actively working on a project targeting long-form audio memory and understanding for NeurIPS 2026.
+- **[2026.01]** Our paper *"Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness"* was submitted to ACL ARR 2026!
+- **[2025.xx]** Our paper *"VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words?"* was accepted to ICLR 2025!
 
+## 🎓 Education
+- **Zhejiang University**, Hangzhou, China (2025 - Present)
+  - M.S. in Computer Science and Technology (Institute of Artificial Intelligence)
+- **Zhejiang University**, Hangzhou, China (2021 - 2025)
+  - B.S. in Artificial Intelligence (Turing Class, Chu Kochen Honors College)
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+## 📝 Publications
+> *Note: ICLR 2025 论文展示了如何使用 Google Scholar 自动拉取引用数的代码格式。*
 
-# 📝 Publications 
+1. **OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios**
+   - ......., **Jingyu Lu**, [Co-authors...]
+   - *[替换为当前的发表状态或预印本链接]*
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+2. **VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words?** <span class='show_paper_citations' data='[填入该论文在Google Scholar上的ID]'></span>
+   - [Co-author 1], ...., **Jingyu Lu**, [Co-authors...]
+   - *International Conference on Learning Representations (ICLR), 2025*
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+## 💻 Selected Projects
+- **History of Artificial Intelligence Knowledge Graph**
+  Constructed a comprehensive knowledge graph tracking the development of AI, highlighting pivotal events like the Dartmouth Workshop and visualizing the relationships between early AI pioneers and modern concepts.
