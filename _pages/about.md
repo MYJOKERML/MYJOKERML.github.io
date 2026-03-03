@@ -13,7 +13,6 @@ Outside of research, I am a classically trained tenor and an avid guitar player.
 
 ## 📢 News
 - **[2026.02]** I am currently actively working on a project targeting long-form audio memory and understanding for NeurIPS 2026.
-- **[2026.01]** Our paper *"Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness"* was submitted to ACL ARR 2026!
 - **[2025.xx]** Our paper *"VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words?"* was accepted to ICLR 2025!
 
 ## 🎓 Education
