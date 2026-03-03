@@ -192,14 +192,15 @@ author_profile: true
   }
 </style>
 
-I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**, where I am fortunate to be advised by Prof. [Zhao Zhou](https://person.zju.edu.cn/zhaozhou). I am also a proud alumnus of the Turing Class at Chu Kochen Honors College, Zhejiang University. Currently, I work as a research assistant at the DCD Lab.
+I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**. I am fortunate to be advised by Prof. [Zhao Zhou](https://person.zju.edu.cn/zhaozhou) and work as a research assistant at the DCD Lab. Previously, I received my B.S. degree from the **Turing Class** (an elite AI program) at Chu Kochen Honors College, Zhejiang University.
 
-My research interests lie primarily in **spoken dialogue systems**, **multimodal large language models**, and **reinforcement learning**.
+My research interests lie at the intersection of **Spoken Dialogue Systems** and **Multimodal Large Language Models (MLLMs)**. Specifically, I am exploring how to leverage **Reinforcement Learning** to enhance the alignment, robustness, and long-term interaction capabilities of conversational agents.
+
+**I am actively looking for academic collaboration, feel free to contact me via email at [lujingyu@zju.edu.cn](mailto:lujingyu@zju.edu.cn).**
 
 ## <span class="section-icon">📢</span> News
 
 <ul class="news-list">
-  <li><span class="news-badge new">2026</span> One first-author paper submitted to <strong>ACL Rolling Review 2026</strong>.</li>
   <li><span class="news-badge">2025</span> Our paper <em>"VoxDialogue"</em> was accepted to <strong>ICLR 2025</strong>!</li>
   <li><span class="news-badge">2025</span> Preprint of <em>OmniChat</em> released on arXiv.</li>
   <li><span class="news-badge">2024</span> Survey paper <em>WavChat: A Survey of Spoken Dialogue Models</em> released on arXiv.</li>
