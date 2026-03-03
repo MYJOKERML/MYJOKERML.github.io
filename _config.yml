@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingyu Lu (陆晶宇) - Academic Homepage"
-description              : "Master Student at Zhejiang University, AI Researcher focusing on Audio & Dialogue Systems."
+description              : "Master Student at Zhejiang University, researching Spoken Dialogue Systems, Multimodal LLMs, and Reinforcement Learning."
 repository               : "MYJOKERML/MYJOKERML.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jingyu Lu"
   avatar           : "images/me.jpg"
-  bio              : "Master Student @ ZJU | Audio & Dialogue Systems | Turing Class Alum"
+  bio              : "Master Student @ ZJU | Spoken Dialogue Systems & Multimodal LLMs"
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "MYJOKERML"
   google_plus      :
   keybase          :
   instagram        :
