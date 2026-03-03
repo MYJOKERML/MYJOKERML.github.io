@@ -230,7 +230,6 @@ My research interests lie primarily in **spoken dialogue systems**, **multimodal
 <div class="pub-entry">
   <div class="pub-title">Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness <span class="pub-badge review">Under Review</span></div>
   <div class="pub-authors"><strong>Jingyu Lu</strong>, et al.</div>
-  <div class="pub-venue">ACL Rolling Review 2026</div>
 </div>
 
 <div class="pub-entry">
