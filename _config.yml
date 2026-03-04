@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jingyu Lu"
+  name             : "Jingyu Lu (陆晶宇)"
   avatar           : "images/me.jpg"
   bio              : "Master Student @ ZJU | Spoken Dialogue Systems & Multimodal LLMs"
   location         : "Hangzhou, China"

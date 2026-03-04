@@ -192,7 +192,7 @@ author_profile: true
   }
 </style>
 
-I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**. I am fortunate to be advised by Prof. [Zhao Zhou](https://person.zju.edu.cn/zhaozhou) and work as a research assistant at the DCD Lab. Previously, I received my B.S. degree from the **Turing Class** (an elite AI program) at Chu Kochen Honors College, Zhejiang University.
+I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**, advised by Prof. [Zhao Zhou](https://person.zju.edu.cn/zhaozhou)(赵洲). Currently I work as a research assistant at the DCD Lab. Previously, I received my B.S. degree from the **Turing Class** (an elite AI program) at Chu Kochen Honors College, Zhejiang University.
 
 My research interests lie at the intersection of **Spoken Dialogue Systems** and **Multimodal Large Language Models (MLLMs)**. Specifically, I am exploring how to leverage **Reinforcement Learning** to enhance the alignment, robustness, and long-term interaction capabilities of conversational agents.
 
@@ -263,9 +263,9 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 ## <span class="section-icon">🏆</span> Awards
 
 <ul class="awards-list">
-  <li>Zhejiang Provincial Government Scholarship <span class="award-year">(2021-2022)</span></li>
-  <li>Zhejiang University First-Class Scholarship <span class="award-year">(2022-2023)</span></li>
-  <li>Zhejiang University Outstanding Student <span class="award-year">(2022-2023)</span></li>
+  <li>Zhejiang Provincial Government Scholarship  (Top 5%)  <span class="award-year">(2021-2022)</span></li>
+  <li>Zhejiang University First-Class Scholarship  (Top 10%)  <span class="award-year">(2022-2023, 2023-2024)</span></li>
+  <li>Zhejiang University Outstanding Student <span class="award-year">(2022-2023, 2023-2024)</span></li>
   <li>Outstanding Undergraduate Thesis Award <span class="award-year">(2025)</span></li>
 </ul>
 
