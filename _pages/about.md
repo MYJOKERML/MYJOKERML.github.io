@@ -92,6 +92,14 @@ author_profile: true
     color: #555;
     margin-bottom: 0.2em;
   }
+  
+  /* Highlight the site owner's name in publications */
+  .pub-authors .me {
+    font-weight: 800;
+    color: #0076df;
+    text-decoration: underline;
+  }
+
   .pub-entry .pub-venue {
     font-size: 0.9em;
     font-style: italic;
@@ -192,7 +200,7 @@ author_profile: true
   }
 </style>
 
-I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**, advised by Prof. [Zhao Zhou](https://person.zju.edu.cn/zhaozhou)(赵洲). Currently I work as a research assistant at the DCD Lab. Previously, I received my B.S. degree from the **Turing Class** (an elite AI program) at Chu Kochen Honors College, Zhejiang University.
+I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**, advised by Prof. [Zhao Zhou](https://person.zju.edu.cn/zhaozhou) (赵洲). Currently I work as a research assistant at the DCD Lab. Previously, I received my B.S. degree from the **Turing Class** (an elite AI program) at Chu Kochen Honors College, Zhejiang University (浙江大学竺可桢学院图灵班).
 
 My research interests lie at the intersection of **Spoken Dialogue Systems** and **Multimodal Large Language Models (MLLMs)**. Specifically, I am exploring how to leverage **Reinforcement Learning** to enhance the alignment, robustness, and long-term interaction capabilities of conversational agents.
 
@@ -209,7 +217,9 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 ## <span class="section-icon">🎓</span> Education
 
 <div class="edu-entry">
-  <div class="edu-icon">🎓</div>
+  <div class="edu-icon">
+    <img src="images/Zhejiang_University_Logo.svg.png" alt="ZJU Logo" style="width: 45px; height: 45px; object-fit: contain;">
+  </div>
   <div class="edu-details">
     <h3>Zhejiang University <span class="edu-meta">| 2025.09 - Present</span></h3>
     <p>M.S. in Computer Science and Technology</p>
@@ -218,7 +228,9 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 </div>
 
 <div class="edu-entry">
-  <div class="edu-icon">📖</div>
+  <div class="edu-icon">
+    <img src="images/Zhejiang_University_Logo.svg.png" alt="ZJU Logo" style="width: 45px; height: 45px; object-fit: contain;">
+  </div>
   <div class="edu-details">
     <h3>Zhejiang University <span class="edu-meta">| 2021.09 - 2025.06</span></h3>
     <p>B.S. in Artificial Intelligence (Turing Class, Chu Kochen Honors College)</p>
@@ -230,21 +242,21 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 
 <div class="pub-entry">
   <div class="pub-title">Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness <span class="pub-badge review">Under Review</span></div>
-  <div class="pub-authors"><strong>Jingyu Lu</strong>, et al.</div>
+  <div class="pub-authors"><span class="me">Jingyu Lu</span>, Yuhan Wang, Fan Zhuo, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title">VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words? <span class="pub-badge accepted">ICLR 2025</span></div>
-  <div class="pub-authors">[Authors], <strong>Jingyu Lu</strong>, [Authors]</div>
+  <div class="pub-authors">Xize Cheng, Ruofan Hu, Xiaoda Yang, <span class="me">Jingyu Lu</span>, Dongjie Fu, Zehan Wang, Shengpeng Ji, Rongjie Huang, Boyang Zhang, Tao Jin, Zhou Zhao</div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2025</div>
   <div class="pub-links">
-    <a href="https://openreview.net/forum?id=vbmSSIhKAM"><i class="fas fa-file-pdf"></i> Paper</a>
+    <a href="https://iclr.cc/virtual/2025/poster/27903"><i class="fas fa-file-pdf"></i> Paper</a>
   </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title">OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios <span class="pub-badge preprint">Preprint</span></div>
-  <div class="pub-authors">[Authors], <strong>Jingyu Lu</strong>, [Authors]</div>
+  <div class="pub-authors">Xize Cheng, Dongjie Fu, Xiaoda Yang, Minghui Fang, Ruofan Hu, <span class="me">Jingyu Lu</span>, Bai Jionghao, Zehan Wang, Shengpeng Ji, Rongjie Huang, Linjun Li, Yu Chen, Tao Jin, Zhou Zhao</div>
   <div class="pub-venue">arXiv preprint, 2025</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2501.01384"><i class="fas fa-file-pdf"></i> Paper</a>
@@ -253,7 +265,7 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 
 <div class="pub-entry">
   <div class="pub-title">WavChat: A Survey of Spoken Dialogue Models <span class="pub-badge preprint">Preprint</span></div>
-  <div class="pub-authors">[Authors], <strong>Jingyu Lu</strong>, [Authors]</div>
+  <div class="pub-authors">Shengpeng Ji, Yifu Chen, Minghui Fang, Jialong Zuo, <span class="me">Jingyu Lu</span>, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao</div>
   <div class="pub-venue">arXiv preprint, 2024</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2411.13577"><i class="fas fa-file-pdf"></i> Paper</a>
@@ -269,7 +281,20 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
   <li>Outstanding Undergraduate Thesis Award <span class="award-year">(2025)</span></li>
 </ul>
 
-## <span class="section-icon">💻</span> Skills
+## <span class="section-icon">💻</span> Research & Internships
+
+<div class="edu-entry">
+  <div class="edu-icon">
+    <img src="images/Zhejiang_University_Logo.svg.png" alt="ZJU Logo" style="width: 45px; height: 45px; object-fit: contain;">
+  </div>
+  <div class="edu-details">
+    <h3>Zhejiang University <span class="edu-meta">| 2023.09 - 2024.06</span></h3>
+    <p>Research Assistant in Audio Research Team</p>
+    <p class="edu-meta">Advisor: Prof. Zhou Zhao (赵洲)</p>
+  </div>
+</div>
+
+<!-- ## <span class="section-icon">💻</span> Skills
 
 <div class="skills-grid">
   <div class="skill-category">
@@ -300,4 +325,4 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
       <span class="skill-tag">LaTeX</span>
     </div>
   </div>
-</div>
+</div> -->
