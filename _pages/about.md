@@ -44,7 +44,7 @@ author_profile: true
     background: #e74c3c;
   }
 
-  /* Education */
+  /* Education & Experience Entries */
   .edu-entry {
     display: flex;
     align-items: flex-start;
@@ -54,11 +54,21 @@ author_profile: true
     border-radius: 8px;
     border-left: 3px solid #0076df;
   }
+  
+  /* Modified for Image Logos */
   .edu-entry .edu-icon {
-    font-size: 1.6em;
-    margin-right: 0.8em;
+    width: 45px;
+    height: 45px;
+    margin-right: 1em;
     margin-top: 0.1em;
+    flex-shrink: 0;
   }
+  .edu-entry .edu-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
   .edu-entry .edu-details h3 {
     margin: 0 0 0.2em 0;
     font-size: 1em;
@@ -91,6 +101,7 @@ author_profile: true
     font-size: 0.9em;
     color: #555;
     margin-bottom: 0.2em;
+    line-height: 1.4;
   }
   
   /* Highlight the site owner's name in publications */
@@ -242,12 +253,12 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 
 <div class="pub-entry">
   <div class="pub-title">Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness <span class="pub-badge review">Under Review</span></div>
-  <div class="pub-authors"><span class="me">Jingyu Lu</span>, Yuhan Wang, Fan Zhuo, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao </div>
+  <div class="pub-authors"><span class="me">Jingyu Lu</span>*, Yuhan Wang*, Fan Zhuo*, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao </div>
 </div>
 
 <div class="pub-entry">
   <div class="pub-title">VoxDialogue: Can Spoken Dialogue Systems Understand Information Beyond Words? <span class="pub-badge accepted">ICLR 2025</span></div>
-  <div class="pub-authors">Xize Cheng, Ruofan Hu, Xiaoda Yang, <span class="me">Jingyu Lu</span>, Dongjie Fu, Zehan Wang, Shengpeng Ji, Rongjie Huang, Boyang Zhang, Tao Jin, Zhou Zhao</div>
+  <div class="pub-authors">Xize Cheng*, Ruofan Hu*, Xiaoda Yang, <span class="me">Jingyu Lu</span>, Dongjie Fu, Zehan Wang, Shengpeng Ji, Rongjie Huang, Boyang Zhang, Tao Jin, Zhou Zhao</div>
   <div class="pub-venue">International Conference on Learning Representations (ICLR), 2025</div>
   <div class="pub-links">
     <a href="https://iclr.cc/virtual/2025/poster/27903"><i class="fas fa-file-pdf"></i> Paper</a>
@@ -255,8 +266,17 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 </div>
 
 <div class="pub-entry">
+  <div class="pub-title">WavChat: A Survey of Spoken Dialogue Models <span class="pub-badge preprint">Preprint</span></div>
+  <div class="pub-authors">Shengpeng Ji*, Yifu Chen*, Minghui Fang*, Jialong Zuo*, <span class="me">Jingyu Lu</span>, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao</div>
+  <div class="pub-venue">arXiv preprint, 2024</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2411.13577"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<div class="pub-entry">
   <div class="pub-title">OmniChat: Enhancing Spoken Dialogue Systems with Scalable Synthetic Data for Diverse Scenarios <span class="pub-badge preprint">Preprint</span></div>
-  <div class="pub-authors">Xize Cheng, Dongjie Fu, Xiaoda Yang, Minghui Fang, Ruofan Hu, <span class="me">Jingyu Lu</span>, Bai Jionghao, Zehan Wang, Shengpeng Ji, Rongjie Huang, Linjun Li, Yu Chen, Tao Jin, Zhou Zhao</div>
+  <div class="pub-authors">Xize Cheng*, Dongjie Fu*, Xiaoda Yang*, Minghui Fang, Ruofan Hu, <span class="me">Jingyu Lu</span>, Bai Jionghao, Zehan Wang, Shengpeng Ji, Rongjie Huang, Linjun Li, Yu Chen, Tao Jin, Zhou Zhao</div>
   <div class="pub-venue">arXiv preprint, 2025</div>
   <div class="pub-links">
     <a href="https://arxiv.org/abs/2501.01384"><i class="fas fa-file-pdf"></i> Paper</a>
@@ -264,13 +284,34 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 </div>
 
 <div class="pub-entry">
-  <div class="pub-title">WavChat: A Survey of Spoken Dialogue Models <span class="pub-badge preprint">Preprint</span></div>
-  <div class="pub-authors">Shengpeng Ji, Yifu Chen, Minghui Fang, Jialong Zuo, <span class="me">Jingyu Lu</span>, Hanting Wang, Ziyue Jiang, Long Zhou, Shujie Liu, Xize Cheng, Xiaoda Yang, Zehan Wang, Qian Yang, Jian Li, Yidi Jiang, Jingzhen He, Yunfei Chu, Jin Xu, Zhou Zhao</div>
-  <div class="pub-venue">arXiv preprint, 2024</div>
+  <div class="pub-title">Synthetic Singers: A Review of Deep-Learning-based Singing Voice Synthesis Approaches <span class="pub-badge accepted">IJCNLP-AACL 2025</span></div>
+  <div class="pub-authors">Changhao Pan*, Dongyu Yao*, Yu Zhang, Wenxiang Guo, <span class="me">Jingyu Lu</span>, Zhiyuan Zhu, Zhou Zhao</div>
+  <div class="pub-venue">Proceedings of the 14th International Joint Conference on Natural Language Processing (IJCNLP-AACL), 2025</div>
   <div class="pub-links">
-    <a href="https://arxiv.org/abs/2411.13577"><i class="fas fa-file-pdf"></i> Paper</a>
+    <a href="https://arxiv.org/abs/2601.13910"><i class="fas fa-file-pdf"></i> Paper</a>
   </div>
 </div>
+
+<div class="pub-entry">
+  <div class="pub-title">Versatile Framework for Song Generation with Prompt-based Control <span class="pub-badge accepted">EMNLP Findings 2025</span></div>
+  <div class="pub-authors">Yu Zhang*, Wenxiang Guo*, Changhao Pan*, Zhiyuan Zhu*, Ruiqi Li, <span class="me">Jingyu Lu</span>, Rongjie Huang, Ruiyuan Zhang, Zhiqing Hong, Ziyue Jiang, Zhou Zhao</div>
+  <div class="pub-venue">Findings of the Association for Computational Linguistics: EMNLP 2025</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2504.19062"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-title">GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks <span class="pub-badge accepted">NeurIPS 2024</span></div>
+  <div class="pub-authors">Yu Zhang*, Changhao Pan*, Wenxiang Guo*, Ruiqi Li, Zhiyuan Zhu, Jialei Wang, Wenhao Xu, <span class="me">Jingyu Lu</span>, Zhiqing Hong, Chuxin Wang, LiChao Zhang, Jinzheng He, Ziyue Jiang, Yuxin Chen, Chen Yang, Jiecheng Zhou, Xinyu Cheng, Zhou Zhao</div>
+  <div class="pub-venue">Advances in Neural Information Processing Systems (NeurIPS), 2024</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2409.13832"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<small><i>(* indicates equal contribution)</i></small>
+
 
 ## <span class="section-icon">🏆</span> Awards
 
@@ -280,6 +321,7 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
   <li>Zhejiang University Outstanding Student <span class="award-year">(2022-2023, 2023-2024)</span></li>
   <li>Outstanding Undergraduate Thesis Award <span class="award-year">(2025)</span></li>
 </ul>
+
 
 ## <span class="section-icon">💻</span> Research & Internships
 
@@ -293,36 +335,3 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
     <p class="edu-meta">Advisor: Prof. Zhou Zhao (赵洲)</p>
   </div>
 </div>
-
-<!-- ## <span class="section-icon">💻</span> Skills
-
-<div class="skills-grid">
-  <div class="skill-category">
-    <h3>Research</h3>
-    <div class="skill-tags">
-      <span class="skill-tag">RLHF/Post-training</span>
-      <span class="skill-tag">GRPO</span>
-      <span class="skill-tag">DPO</span>
-      <span class="skill-tag">Chain-of-Thought</span>
-      <span class="skill-tag">Reward Modeling</span>
-    </div>
-  </div>
-  <div class="skill-category">
-    <h3>Programming</h3>
-    <div class="skill-tags">
-      <span class="skill-tag">Python</span>
-      <span class="skill-tag">PyTorch</span>
-      <span class="skill-tag">DeepSpeed</span>
-      <span class="skill-tag">Accelerate</span>
-    </div>
-  </div>
-  <div class="skill-category">
-    <h3>Tools</h3>
-    <div class="skill-tags">
-      <span class="skill-tag">Docker</span>
-      <span class="skill-tag">WandB</span>
-      <span class="skill-tag">Git</span>
-      <span class="skill-tag">LaTeX</span>
-    </div>
-  </div>
-</div> -->
