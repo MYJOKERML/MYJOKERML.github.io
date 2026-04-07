@@ -211,21 +211,24 @@ author_profile: true
   }
 </style>
 
+<h2 id="aboutme">About Me</h2>
+
 I am currently a Master's student at the Institute of Artificial Intelligence, College of Computer Science and Technology, **Zhejiang University**, advised by Prof. [Zhao Zhou](https://person.zju.edu.cn/zhaozhou) (赵洲). Currently I work as a research assistant at the DCD Lab. Previously, I received my B.S. degree from the **Turing Class** (an elite AI program) at Chu Kochen Honors College, Zhejiang University (浙江大学竺可桢学院图灵班).
 
 My research interests lie at the intersection of **Spoken Dialogue Systems** and **Multimodal Large Language Models (MLLMs)**. Specifically, I am exploring how to leverage **Reinforcement Learning** to enhance the alignment, robustness, and long-term interaction capabilities of conversational agents.
 
 **I am actively looking for academic collaboration, feel free to contact me via email at [lujingyu@zju.edu.cn](mailto:lujingyu@zju.edu.cn).**
 
-## <span class="section-icon">📢</span> News
+<h2 id="news"><span class="section-icon">📢</span> News</h2>
 
 <ul class="news-list">
+  <li><span class="news-badge new">2026</span> Our paper <em>"Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness"</em> was accepted to the main conference of <strong>ACL 2026 Main Conference</strong>!</li>
   <li><span class="news-badge">2025</span> Our paper <em>"VoxDialogue"</em> was accepted to <strong>ICLR 2025</strong>!</li>
   <li><span class="news-badge">2025</span> Preprint of <em>OmniChat</em> released on arXiv.</li>
   <li><span class="news-badge">2024</span> Survey paper <em>WavChat: A Survey of Spoken Dialogue Models</em> released on arXiv.</li>
 </ul>
 
-## <span class="section-icon">🎓</span> Education
+<h2 id="education"><span class="section-icon">🎓</span> Education</h2>
 
 <div class="edu-entry">
   <div class="edu-icon">
@@ -249,11 +252,15 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
   </div>
 </div>
 
-## <span class="section-icon">📝</span> Publications
+<h2 id="publications"><span class="section-icon">📝</span> Publications</h2>
 
 <div class="pub-entry">
-  <div class="pub-title">Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness <span class="pub-badge review">Under Review</span></div>
+  <div class="pub-title">Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness <span class="pub-badge accepted">ACL 2026 Main</span></div>
   <div class="pub-authors"><span class="me">Jingyu Lu</span>*, Yuhan Wang*, Fan Zhuo*, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao </div>
+  <div class="pub-venue">Annual Meeting of the Association for Computational Linguistics (ACL), 2026</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2603.14889"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
 </div>
 
 <div class="pub-entry">
@@ -313,7 +320,7 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 <small><i>(* indicates equal contribution)</i></small>
 
 
-## <span class="section-icon">🏆</span> Awards
+<h2 id="awards"><span class="section-icon">🏆</span> Awards</h2>
 
 <ul class="awards-list">
   <li>Zhejiang Provincial Government Scholarship  (Top 5%)  <span class="award-year">(2021-2022)</span></li>
@@ -323,7 +330,7 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 </ul>
 
 
-## <span class="section-icon">💻</span> Research & Internships
+<h2 id="internships"><span class="section-icon">💻</span> Research & Internships</h2>
 
 <div class="edu-entry">
   <div class="edu-icon">
