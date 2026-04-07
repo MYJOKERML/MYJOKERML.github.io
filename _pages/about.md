@@ -222,7 +222,7 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 <h2 id="news"><span class="section-icon">📢</span> News</h2>
 
 <ul class="news-list">
-  <li><span class="news-badge new">2026</span> Our paper <em>"Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness"</em> was accepted to the main conference of <strong>ACL 2026 Main Conference</strong>!</li>
+  <li><span class="news-badge new">2026</span> Our paper <em>"SDiaReward"</em> was accepted to the main conference of <strong>ACL 2026 Main Conference</strong>!</li>
   <li><span class="news-badge">2025</span> Our paper <em>"VoxDialogue"</em> was accepted to <strong>ICLR 2025</strong>!</li>
   <li><span class="news-badge">2025</span> Preprint of <em>OmniChat</em> released on arXiv.</li>
   <li><span class="news-badge">2024</span> Survey paper <em>WavChat: A Survey of Spoken Dialogue Models</em> released on arXiv.</li>
