@@ -255,11 +255,38 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 <h2 id="publications"><span class="section-icon">📝</span> Publications</h2>
 
 <div class="pub-entry">
-  <div class="pub-title">Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness <span class="pub-badge accepted">ACL 2026 Main</span></div>
+  <div class="pub-title">SDiaReward: Modeling and Benchmarking Spoken Dialogue Rewards with Modality and Colloquialness <span class="pub-badge accepted">ACL 2026 Main</span></div>
   <div class="pub-authors"><span class="me">Jingyu Lu</span>*, Yuhan Wang*, Fan Zhuo*, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao </div>
   <div class="pub-venue">Annual Meeting of the Association for Computational Linguistics (ACL), 2026</div>
   <div class="pub-links">
-    <a href="https://arxiv.org/abs/2603.14889"><i class="fas fa-file-pdf"></i> Paper</a>
+    <a href="https://openreview.net/forum?id=zcADfiJ7Sg"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-title">VoxMind: An End-to-End Agentic Spoken Dialogue System <span class="pub-badge accepted">ACL 2026 Main</span></div>
+  <div class="pub-authors">Tianle Liang*, Yifu Chen*, Shengpeng Ji*, Yijun Chen, Zhiyang Jia, <span class="me">Jingyu Lu</span>, Fan Zhuo, Xueyi Pu, Yangzhuo Li, Zhou Zhao</div>
+  <div class="pub-venue">Annual Meeting of the Association for Computational Linguistics (ACL), 2026</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2604.15710"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-title">Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios <span class="pub-badge accepted">ACL 2026 Findings</span></div>
+  <div class="pub-authors">Changhao Pan, Rui Yang, Han Wang, Zhuan Zhou, Xuming He, Wenxiang Guo, Ziyue Jiang, Ruiqi Li, Yu Zhang, Chenyuhao Wen, Ke Lei, Xiang Yin, <span class="me">Jingyu Lu</span>, Zhiyuan Zhu, Zhou Zhao</div>
+  <div class="pub-venue">Findings of the Association for Computational Linguistics: ACL 2026</div>
+  <div class="pub-links">
+    <a href="https://openreview.net/forum?id=jOe1HKyD1e"><i class="fas fa-file-pdf"></i> Paper</a>
+  </div>
+</div>
+
+<div class="pub-entry">
+  <div class="pub-title">WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training <span class="pub-badge accepted">ACL 2026 Findings</span></div>
+  <div class="pub-authors">Yifu Chen*, Shengpeng Ji*, Qian Chen*, Tianle Liang, Yangzhuo Li, Ziqing Wang, Wen Wang, <span class="me">Jingyu Lu</span>, Haoxiao Wang, Xueyi Pu, Fan Zhuo, Zhou Zhao</div>
+  <div class="pub-venue">Findings of the Association for Computational Linguistics: ACL 2026</div>
+  <div class="pub-links">
+    <a href="https://arxiv.org/abs/2604.14932"><i class="fas fa-file-pdf"></i> Paper</a>
   </div>
 </div>
 
