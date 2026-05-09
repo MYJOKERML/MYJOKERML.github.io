@@ -274,7 +274,7 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
 
 <div class="pub-entry">
   <div class="pub-title">Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios <span class="pub-badge accepted">ACL 2026 Findings</span></div>
-  <div class="pub-authors">Changhao Pan, Rui Yang, Han Wang, Zhuan Zhou, Xuming He, Wenxiang Guo, Ziyue Jiang, Ruiqi Li, Yu Zhang, Chenyuhao Wen, Ke Lei, Xiang Yin, <span class="me">Jingyu Lu</span>, Zhiyuan Zhu, Zhou Zhao</div>
+  <div class="pub-authors">Changhao Pan*, Rui Yang*, Han Wang*, Zhuan Zhou, Xuming He, Wenxiang Guo, Ziyue Jiang, Ruiqi Li, Yu Zhang, Chenyuhao Wen, Ke Lei, Xiang Yin, <span class="me">Jingyu Lu</span>, Zhiyuan Zhu, Zhou Zhao</div>
   <div class="pub-venue">Findings of the Association for Computational Linguistics: ACL 2026</div>
   <div class="pub-links">
     <a href="https://openreview.net/forum?id=jOe1HKyD1e"><i class="fas fa-file-pdf"></i> Paper</a>
