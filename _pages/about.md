@@ -259,7 +259,7 @@ My research interests lie at the intersection of **Spoken Dialogue Systems** and
   <div class="pub-authors"><span class="me">Jingyu Lu</span>*, Yuhan Wang*, Fan Zhuo*, Xize Cheng, Changhao Pan, Xueyi Pu, Yifu Chen, Chenyuhao Wen, Tianle Liang, Zhou Zhao </div>
   <div class="pub-venue">Annual Meeting of the Association for Computational Linguistics (ACL), 2026</div>
   <div class="pub-links">
-    <a href="https://openreview.net/forum?id=zcADfiJ7Sg"><i class="fas fa-file-pdf"></i> Paper</a>
+    <a href="https://arxiv.org/abs/2603.14889"><i class="fas fa-file-pdf"></i> Paper</a>
   </div>
 </div>
 
